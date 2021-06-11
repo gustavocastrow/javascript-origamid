@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 body, h1, h2, ul, li, p, dd, dt, dl {
-=======
-body, h1, h2, h3, ul, li, p, dd, dt, dl {
->>>>>>> 9f6e4bfc0cdf51222a0d49c73ba8777adc853556
   margin: 0px;
   padding: 0px;
 }
@@ -21,22 +17,14 @@ body {
   color: #222;
   -webkit-font-smoothing: antialiased;
   display: grid;
-<<<<<<< HEAD
   grid-template-columns: 1fr 120px minmax(300px, 800px) 1fr;
-=======
-  grid-template-columns: 1fr 120px minmax(300px, 800px) 1fr; /* 4 colunas */
->>>>>>> 9f6e4bfc0cdf51222a0d49c73ba8777adc853556
 }
 
 .menu {
   grid-column: 3 / 5;
   margin-top: 2rem;
   margin-bottom: 2rem;
-<<<<<<< HEAD
   background: #FB5;
-=======
-  background: #fb5;
->>>>>>> 9f6e4bfc0cdf51222a0d49c73ba8777adc853556
 }
 
 .menu ul {
@@ -69,7 +57,6 @@ body {
   margin-bottom: 4rem;
 }
 
-<<<<<<< HEAD
 .titulo {
   font-family: 'Playfair Display SC', georgia;
   font-size: 6rem;
@@ -219,5 +206,3 @@ body {
     margin-bottom: 0px;
   }
 }
-=======
->>>>>>> 9f6e4bfc0cdf51222a0d49c73ba8777adc853556
